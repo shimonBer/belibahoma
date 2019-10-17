@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c58eb92.chunk.css",
+    "main.js": "/static/js/main.5440794a.chunk.js",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "static/css/2.3ca888f5.chunk.css": "/static/css/2.3ca888f5.chunk.css",
+    "static/js/2.0943576a.chunk.js": "/static/js/2.0943576a.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.cf4b5440bbf9453f15d46e83b54d2131.js": "/precache-manifest.cf4b5440bbf9453f15d46e83b54d2131.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/AboutPDF.pdf": "/static/media/AboutPDF.0d82cd67.pdf",
+    "static/media/BelibaHoma.jpg": "/static/media/BelibaHoma.ae0a3804.jpg",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.jpg": "/static/media/logo.581add12.jpg",
+    "static/media/simaneyDlogo.webp": "/static/media/simaneyDlogo.9eaa0964.webp"
+  }
+}
