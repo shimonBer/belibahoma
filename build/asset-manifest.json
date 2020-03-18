@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.35587f46.chunk.css",
-    "main.js": "/static/js/main.01ee62cd.chunk.js",
+    "main.js": "/static/js/main.46ffc155.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c60a4f74.js",
     "static/css/2.24378141.chunk.css": "/static/css/2.24378141.chunk.css",
-    "static/js/2.3140675f.chunk.js": "/static/js/2.3140675f.chunk.js",
+    "static/js/2.d3278f03.chunk.js": "/static/js/2.d3278f03.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.8145b99effca2805de07a02ea9771560.js": "/precache-manifest.8145b99effca2805de07a02ea9771560.js",
+    "precache-manifest.59f5bb939985c33a22d71ab51ddf5cd2.js": "/precache-manifest.59f5bb939985c33a22d71ab51ddf5cd2.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.3140675f.chunk.js.LICENSE.txt": "/static/js/2.3140675f.chunk.js.LICENSE.txt",
+    "static/js/2.d3278f03.chunk.js.LICENSE.txt": "/static/js/2.d3278f03.chunk.js.LICENSE.txt",
     "static/media/AboutPDF.pdf": "/static/media/AboutPDF.0d82cd67.pdf",
     "static/media/BelibaHoma.jpg": "/static/media/BelibaHoma.ae0a3804.jpg",
     "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.c60a4f74.js",
     "static/css/2.24378141.chunk.css",
-    "static/js/2.3140675f.chunk.js",
+    "static/js/2.d3278f03.chunk.js",
     "static/css/main.35587f46.chunk.css",
-    "static/js/main.01ee62cd.chunk.js"
+    "static/js/main.46ffc155.chunk.js"
   ]
 }
