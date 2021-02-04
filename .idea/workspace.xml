@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="174cb757-ddac-4dbf-946f-ca4f32c745d9" name="Default Changelist" comment="Add type to tutors management" />
+    <list default="true" id="174cb757-ddac-4dbf-946f-ca4f32c745d9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607257862551</updated>
       <workItem from="1607257863892" duration="2313000" />
-      <workItem from="1612442914630" duration="375000" />
+      <workItem from="1612442914630" duration="982000" />
     </task>
     <task id="LOCAL-00001" summary="Adding the new field for from uniform to studies scholarship">
       <created>1607258846641</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612443002822</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add type to tutors management">
+      <created>1612443292932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612443292932</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
