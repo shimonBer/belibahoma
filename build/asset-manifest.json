@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.712c35d4.chunk.css",
-    "main.js": "/static/js/main.9fc59703.chunk.js",
+    "main.css": "/static/css/main.e719bede.chunk.css",
+    "main.js": "/static/js/main.ff3ba0e5.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "static/css/2.88f2a89e.chunk.css": "/static/css/2.88f2a89e.chunk.css",
-    "static/js/2.49b270c4.chunk.js": "/static/js/2.49b270c4.chunk.js",
+    "static/css/2.e672163f.chunk.css": "/static/css/2.e672163f.chunk.css",
+    "static/js/2.f1df85e2.chunk.js": "/static/js/2.f1df85e2.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.8297ef6aba28c0554311ff0cb4ea6114.js": "/precache-manifest.8297ef6aba28c0554311ff0cb4ea6114.js",
+    "precache-manifest.363e62740cde220f2644a8fbbd7c4b73.js": "/precache-manifest.363e62740cde220f2644a8fbbd7c4b73.js",
     "service-worker.js": "/service-worker.js",
     "static/media/AboutPDF.pdf": "/static/media/AboutPDF.0d82cd67.pdf",
     "static/media/BelibaHoma.jpg": "/static/media/BelibaHoma.ae0a3804.jpg",
